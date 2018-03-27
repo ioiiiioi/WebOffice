@@ -1,0 +1,25 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="office.com" resolutions="1x" timestamp="1522171966889">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="153199410" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u152-r.png" crc="4020777214" ref="index"/>
+    <file name="u145-r.png" crc="167723340" ref="index"/>
+    <file name="u159-r.png" crc="4218242613" ref="index"/>
+    <file name="u138-r.png" crc="318337884" ref="index"/>
+    <file name="u130-r.png" crc="536468418" ref="index"/>
+    <file name="u166-r.png" crc="4163542088" ref="index"/>
+    <file name="office resp.jpg" crc="3932899842" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3941753928" seo="true" mt="1522170519788" redirect="true"/>
+</manifest>
